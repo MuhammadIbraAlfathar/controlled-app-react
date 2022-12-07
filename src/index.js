@@ -47,7 +47,6 @@ class MyForm extends React.Component {
     const message = `
     Terimakasih Sudah Registrasi
     Berikut Data Anda
-    AHAIIII
 
     Name  : ${this.state.name}
     Email : ${this.state.email}
